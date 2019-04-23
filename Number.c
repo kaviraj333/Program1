@@ -1,7 +1,9 @@
 #include<stdio.h>
-int main()
+#include<conio,
+void main()
 {
- int a[10],j,n,i;
+ int a[10],j,n,i,d;
+ clrscr();
 printf("Enter the number:");
  scanf("%d",&n);
  for(i=0;i<=n;i++)
