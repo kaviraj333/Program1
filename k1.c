@@ -4,7 +4,7 @@ void main()
  {
    int a,b,c;
    clrscr();
-   printf("Enter the numbers:");
+   printf("Enter the largestnumber:");
    scanf("%d%d%d",&a,&b,&c);
    if(a>b)
     {
